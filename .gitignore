@@ -1,0 +1,10 @@
+*.aux
+*.log
+*.toc
+*.gls
+*.ist
+*.out
+*.pdf
+*.glg
+*.glo
+.DS_Store
