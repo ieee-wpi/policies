@@ -1,6 +1,0 @@
-pdflatex Bylaws
-makeglossaries Bylaws
-pdflatex Bylaws
-makeglossaries Bylaws
-pdflatex Bylaws
-pdflatex Bylaws
