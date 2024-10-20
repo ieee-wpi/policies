@@ -1,15 +1,19 @@
-# Bylaws
-**The Bylaws for the WPI student branch of the IEEE.**
+# Branch Policies
+**Policies for the IEEE WPI Student Branch.**
 
-[Current Bylaws](Bylaws.pdf)
+## Bylaws
+The bylaws are located at `bylaws/bylaws.pdf`.
 
-## Build Instructions
-In order to build this project you will need to have latex installed. 
+In order to build the bylaws you will need to have LaTeX installed. 
 Installation instructions for all operating systems can be found at https://www.latex-project.org/get/
 
-With latex installed, open a shell, navigate to the *tex* directory, and execute the build script.
+With LaTeX installed, open a shell, navigate to the */bylaws/tex* directory, and run the build script.
 ```bash
-cd tex
+cd bylaws/tex
 ./build
 ```
-This will build the Bylaws.pdf file. 
+This will build the bylaws.pdf file.
+
+
+## Lounge Policy
+The lounge policy is located at `lounge_policy/lounge_policy.pdf`

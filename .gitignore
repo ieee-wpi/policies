@@ -7,4 +7,5 @@
 *.pdf
 *.glg
 *.glo
+*.synctex.gz
 .DS_Store
